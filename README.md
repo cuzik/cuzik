@@ -35,7 +35,7 @@ These stats below are considering something that I really don't know what it is,
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cuzik&theme=radical&count_private=true&include_all_commits=true&show_icons=true" height= '100'/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?layout=compact&theme=radical&username=cuzik" height= '100'/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?theme=radical&username=cuzik" height= '100'/>
 </div>
 
 
