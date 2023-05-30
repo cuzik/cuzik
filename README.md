@@ -1,7 +1,9 @@
 
 # Hello, nice to see you here
 
-![Intro](https://i.pinimg.com/originals/df/41/07/df4107edd8b4fe79455810ea6222e087.gif)
+<div align="center">
+  <img src="https://i.pinimg.com/originals/df/41/07/df4107edd8b4fe79455810ea6222e087.gif"/>
+</div>
 
 My name is Carlos and I'm a Programmer. I like GameDev and WebDev.
 
@@ -21,24 +23,21 @@ Most of my career is focused on the backend with Ruby, using Ruby on Rails as th
 ## Some cool things I did
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=cuzik&repo=evolutionary-computation&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=cuzik&repo=sudoku-solver&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=enki-community&repo=enki&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=cuzik&repo=evolutionary-computation&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=enki-community&repo=enki&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=cuzik&repo=sudoku-solver&theme=radical"/>
 </div>
 
 ## Stats
 
 This is the stats, I don't think the counts are right, but anyway, I like the colors and the format.
+These stats below are considering something that I really don't know what it is, but it is a cool chart.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cuzik&theme=radical&count_private=true&include_all_commits=true&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cuzik&theme=radical&count_private=true&include_all_commits=true&show_icons=true" height= '200px'/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?&layout=compact&theme=radical&username=cuzik" height= '200px'/>
 </div>
 
-This stats below are considering something that I really don't know what it is, but it is a cool chart.
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?&layout=pie&theme=radical&username=cuzik"  />
-</div>
 
 Feel free to contact me via email or LinkedIn.
 
