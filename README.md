@@ -1,10 +1,6 @@
 
 # Hello, nice to see you here
 
-<div align="center">
-  <img src="https://www.shutterstock.com/image-vector/cute-cat-greeting-drawing-cartoon-260nw-2133579613.jpg" width="100%"/>
-</div>
-
 My name is Carlos and I'm a Programmer. I like GameDev and WebDev.
 
 ## Career
